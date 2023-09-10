@@ -57,3 +57,4 @@ if __name__ == "__main__":
 ```
 ![image](https://github.com/prabhakar2020/streamlit/assets/7165155/2065d633-2680-4a86-8117-d6db13da9d45)
 
+Note: Tried above program in `Streamlit, version 1.26.0` in Windows 10
